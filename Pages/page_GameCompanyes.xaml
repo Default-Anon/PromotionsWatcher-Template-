@@ -7,7 +7,7 @@
         xmlns:mdw="http://materialdesigninxaml.net/winfx/xaml/themes"
         WindowStyle="None"
         mc:Ignorable="d"
-        Title="page_GameCompanyes" Height="500" Width="900">
+        Title="page_GameCompanyes" Height="650" Width="1100">
     <Grid Background="Black">
         <Grid.ColumnDefinitions>
             <ColumnDefinition MaxWidth="200"/>
@@ -138,7 +138,7 @@
             <ScrollViewer>
                 <StackPanel>
                     <Label HorizontalAlignment="Center" Content="Most Capitalize Game Company" Foreground="White" FontSize="22"/>
-                    <Expander Header="Tencent" FontSize="23" Foreground="White">
+                    <Expander Header="Tencent" IsExpanded="True" FontSize="23" Foreground="White">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="100"/>
@@ -159,7 +159,7 @@
                             <Grid Grid.ColumnSpan="3" Grid.Column="1" Grid.Row="2" Background="Gray"/>
                         </Grid>
                     </Expander>
-                    <Expander Header="Sony" FontSize="23" Foreground="White">
+                    <Expander Header="Sony" IsExpanded="True" FontSize="23" Foreground="White">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="100"/>
@@ -180,7 +180,7 @@
                             <Grid Grid.ColumnSpan="3" Grid.Column="1" Grid.Row="2" Background="Gray"/>
                         </Grid>
                     </Expander>
-                    <Expander Header="Activision Blizzard" FontSize="23" Foreground="White">
+                    <Expander Header="Activision Blizzard" IsExpanded="True" FontSize="23" Foreground="White">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="100"/>
@@ -201,7 +201,7 @@
                             <Grid Grid.ColumnSpan="3" Grid.Column="1" Grid.Row="2" Background="Gray"/>
                         </Grid>
                     </Expander>
-                    <Expander Header="Microsoft" FontSize="23" Foreground="White">
+                    <Expander Header="Microsoft" IsExpanded="True" FontSize="23" Foreground="White">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="100"/>
@@ -222,7 +222,7 @@
                             <Grid Grid.ColumnSpan="3" Grid.Column="1" Grid.Row="2" Background="Gray"/>
                         </Grid>
                     </Expander>
-                    <Expander Header="NetEase" FontSize="23" Foreground="White">
+                    <Expander Header="NetEase" IsExpanded="True" FontSize="23" Foreground="White">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="100"/>
@@ -243,7 +243,7 @@
                             <Grid Grid.ColumnSpan="3" Grid.Column="1" Grid.Row="2" Background="Gray"/>
                         </Grid>
                     </Expander>
-                    <Expander Header="Electronic Arts" FontSize="23" Foreground="White">
+                    <Expander Header="Electronic Arts" IsExpanded="True" FontSize="23" Foreground="White">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="100"/>
@@ -264,7 +264,7 @@
                             <Grid Grid.ColumnSpan="3" Grid.Column="1" Grid.Row="2" Background="Gray"/>
                         </Grid>
                     </Expander>
-                    <Expander Header="Nintendo" FontSize="23" Foreground="White">
+                    <Expander Header="Nintendo" IsExpanded="True" FontSize="23" Foreground="White">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="100"/>
@@ -285,7 +285,7 @@
                             <Grid Grid.ColumnSpan="3" Grid.Column="1" Grid.Row="2" Background="Gray"/>
                         </Grid>
                     </Expander>
-                    <Expander Header="Bandai Namco" FontSize="23" Foreground="White">
+                    <Expander Header="Bandai Namco" IsExpanded="True" FontSize="23" Foreground="White">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="100"/>
@@ -306,7 +306,7 @@
                             <Grid Grid.ColumnSpan="3" Grid.Column="1" Grid.Row="2" Background="Gray"/>
                         </Grid>
                     </Expander>
-                    <Expander Header="Ubisoft" FontSize="23" Foreground="White">
+                    <Expander Header="Ubisoft" IsExpanded="True" FontSize="23" Foreground="White">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="130"/>
@@ -327,7 +327,7 @@
                             <Grid Grid.ColumnSpan="3" Grid.Column="1" Grid.Row="2" Background="Gray"/>
                         </Grid>
                     </Expander>
-                    <Expander Header="Take-Two" FontSize="23" Foreground="White">
+                    <Expander Header="Take-Two" IsExpanded="True" FontSize="23" Foreground="White">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="100"/>

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Projects\Promotions_Wathcher\obj\Debug\netcoreapp3.1\
+D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\
 TradingApp
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1
 D:\Projects\Promotions_Wathcher\App.xaml
 228073622
 
-7923431048
+7-465032436
 1991109961056
 MainWindow.xaml;Pages\page_GameCompanyes.xaml;
 
-False
+True
 

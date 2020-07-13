@@ -45,6 +45,7 @@ namespace TradingApp
 
         private void Grid_MouseDown(object sender, MouseButtonEventArgs e)
         {
+            Application.Current.MainWindow = this;
             Application.Current.MainWindow.Height = 600;
             Application.Current.MainWindow.Width = 1000;
         }
