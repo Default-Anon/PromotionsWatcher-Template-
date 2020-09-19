@@ -1,3 +1,8 @@
+D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\MainWindow.g.cs
+D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\Pages\page_GameCompanyes.g.cs
+D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\App.g.cs
+D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\TradingApp_MarkupCompile.cache
+D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\TradingApp_MarkupCompile.lref
 D:\Projects\Promotions_Wathcher\bin\Release\netcoreapp3.1\TradingApp.exe
 D:\Projects\Promotions_Wathcher\bin\Release\netcoreapp3.1\TradingApp.deps.json
 D:\Projects\Promotions_Wathcher\bin\Release\netcoreapp3.1\TradingApp.runtimeconfig.json
@@ -11,12 +16,6 @@ D:\Projects\Promotions_Wathcher\bin\Release\netcoreapp3.1\MaterialDesignColors.d
 D:\Projects\Promotions_Wathcher\bin\Release\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
 D:\Projects\Promotions_Wathcher\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Projects\Promotions_Wathcher\bin\Release\netcoreapp3.1\YahooFinanceApi.dll
-D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\TradingApp.csprojAssemblyReference.cache
-D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\MainWindow.g.cs
-D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\Pages\page_GameCompanyes.g.cs
-D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\App.g.cs
-D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\TradingApp_MarkupCompile.cache
-D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\TradingApp_MarkupCompile.lref
 D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\MainWindow.baml
 D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\Pages\page_GameCompanyes.baml
 D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\TradingApp.g.resources
@@ -27,3 +26,4 @@ D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\TradingApp.csproj.Copy
 D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\TradingApp.dll
 D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\TradingApp.pdb
 D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\TradingApp.genruntimeconfig.cache
+D:\Projects\Promotions_Wathcher\obj\Release\netcoreapp3.1\TradingApp.csprojAssemblyReference.cache
